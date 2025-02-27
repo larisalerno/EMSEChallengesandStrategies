@@ -4,6 +4,6 @@ This is a replication package for the paper "Open Source Software Development To
 
 ## Folder explanation
 
-The folder "TranscriptsEMSE" contain the transcripts extracted from the 24 think-aloud sessions. In the transcripts, we highlighted the *challenges* using the colour *pink*, and the *strategies* using the colour *green*. The text highlighted in *yellow* indicates statements or questions made by the *observer*. 
+The folder "TranscriptsEMSE" contains the transcripts extracted from the 24 think-aloud sessions. In the transcripts, we highlighted the *challenges* using the colour *pink*, and the *strategies* using the colour *green*. The text highlighted in *yellow* indicates statements, questions or observations made by the *observer*. 
 
-The screenshots of the participants during installation process are included in the transcripts as well. We further anonymise the participants' identity by occluding it with a stripe.
+The screenshots of the participants during the installation process are included in the transcripts as well. We further anonymise the participants' identity by occluding it with a stripe.
