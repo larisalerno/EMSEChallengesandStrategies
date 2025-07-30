@@ -16,5 +16,7 @@ The folder "DataAnalysis" contains a spreadsheet file with the analysis of chall
 - **Challenges - Initial Analysis:** Preliminary analysis of challenges extracted from the transcripts.  
 - **Strategies - Initial Analysis:** Initial analysis of strategies identified in the transcripts.  
 - **Complete Analysis:** Finalised mapping of sources, challenges, and strategies.  
-- **Source Analysis:** Mapping of relationships between challenges, strategies, and sources.  
+- **Source Analysis:** Mapping of relationships between challenges, strategies, and sources.
+
+The "ValidationSurvey" folder contains a PDF file with the two validation survey questions, presented exactly as they were shown to participants. 
 
